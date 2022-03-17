@@ -6,4 +6,5 @@ go check :
 - the coding train fourier series
 - 3Blue1Brown videos 
 
+you can launch it with processing python
 enjoy 
